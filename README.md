@@ -83,9 +83,10 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 # Services Overview:
 • Explore all the available services in AWS platform.
 # Output:
-<img width="1912" height="1185" alt="Screenshot 2025-10-25 at 11 29 01 AM" src="https://github.com/user-attachments/assets/ee97dd58-68d2-4240-93e1-0b554d1af668" />
+![WhatsApp Image 2025-11-16 at 12 52 49 PM](https://github.com/user-attachments/assets/415e6a04-c7de-4734-b228-824fe60e117e)
 
-<img width="1912" height="1185" alt="Screenshot 2025-10-25 at 11 29 41 AM" src="https://github.com/user-attachments/assets/8aa51697-8f3e-4af1-83db-36ab6ab8f802" />
+<img width="1918" height="985" alt="image" src="https://github.com/user-attachments/assets/c71982a5-3070-4b0a-8014-e899d738aa9d" />
+
 
 
 # Result:
